@@ -16,6 +16,10 @@ body {
      padding: 20px;
 }
 
+.jumbotron p.active {
+     color: #1f6ddd;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -39,4 +43,9 @@ body {
 
 .project a {
      text-align: center;
+}
+
+
+.project img{
+     display:none;
 }
